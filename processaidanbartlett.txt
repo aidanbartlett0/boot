@@ -1,0 +1,1 @@
+fake_aws_env = dkjfbdkjsnfli473y8bfiurh3brjhb3nbmn fake_azure_env = jdnfekfjnerni6784jk3nk4nj3njn3344
